@@ -1,0 +1,13 @@
+{
+  "item.examplemod.fluorite": "Fluorite",
+  "item.examplemod.raw_fluorite": "Raw Fluorite",
+  "item.examplemod.ruby": "Ruby",
+  "item.examplemod.ruby_ring": "Ruby Ring",
+  "item.examplemod.flat_fish": "Flat Fish",
+
+  "block.examplemod.fluorite_block": "Block of Fluorite",
+  "block.examplemod.fluorite_deepslate_ore": "Block of Fluorite Deepslate Ore",
+
+  "creativemodetab.examplemod.mod_items": "Mod Items",
+  "creativemodetab.examplemod.mod_blocks": "Mod Blocks"
+}
